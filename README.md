@@ -15,6 +15,6 @@
   4. Normal.
 
 # Models used : 
-  1. Convolutional neural network (CNN) - Achieved an accuracy of 90%.
-  2. DenseNet. - Achieved an accuracy of 56%.
+  1. Convolutional neural network (CNN) - Achieved an accuracy of 56%.
+  2. DenseNet. - Achieved an accuracy of 90%.
 
