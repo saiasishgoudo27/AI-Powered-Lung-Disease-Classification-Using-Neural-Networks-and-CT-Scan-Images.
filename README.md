@@ -1,4 +1,4 @@
-# Lung Health Classification using CT Scan Image Analysis
+# AI-Powered Lung Disease Classification Using Neural Networks and CT-Scan Images.
 
 This project focuses on developing a deep learning model to classify lung CT scan images into four categories: **Adenocarcinoma**, **Large Cell Carcinoma**, **Squamous Cell Carcinoma**, and **Normal Cell**. The goal is to assist radiologists and medical professionals in early and accurate detection of lung cancer types using automated image analysis.
 
